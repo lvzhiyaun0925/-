@@ -15,3 +15,5 @@ main.py为客户端， server.py为服务端。
 `
   pip install flask
 `
+
+直接点击download zip即可，建议源码运行，不提供编译文件
